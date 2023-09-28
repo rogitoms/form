@@ -34,7 +34,7 @@
 				</div>
                 <div><label for="confpassword">Confirm Password:</label></div>			
                 <div>
-                    <input type="password" name="confpassword" Placeholder="Confirm your password"  required></textarea>
+                    <input type="password" name="confpassword" Placeholder="Confirm your password"  required/>
                 </div>
 				<div>
 					<input type="submit" name="register" value="Register" />
